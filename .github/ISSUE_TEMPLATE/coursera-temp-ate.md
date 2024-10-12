@@ -1,5 +1,5 @@
 ---
-name: Coursera temp;ate
+name: Coursera template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
